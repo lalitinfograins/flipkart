@@ -1,0 +1,28 @@
+@import url("./component//common/header.scss");
+@import url("./component/common/navbar.scss");
+@import url("./component/common/sidebar.scss");
+@import url("./component/leanding/home.scss");
+@import url("./component/common/footer.scss");
+@import url("./pages/single_product.scss");
+@import url("./component/cartmessage/cart_message.scss");
+@import url("./component/cart_modal/cart_modal.scss");
+@import url("./pages/cart/cart.scss");
+@import url("./pages/user/login.scss");
+@import url("./pages/user/registed.scss");
+@import url("./component/loader.scss");
+@import url("./pages/checkout/checkout.scss");
+a {
+    color:#fff;
+    text-decoration: none !important;
+    font-weight: 400;
+}
+li {
+    list-style: none !important;
+}
+ul {
+    list-style: none !important;
+}
+p{
+    color: #2d2d2d;
+}
+

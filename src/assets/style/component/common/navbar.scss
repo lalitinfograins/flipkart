@@ -1,0 +1,102 @@
+nav.navbar {
+    display: block;
+    margin-left: -10px;
+    margin-bottom: -10px;
+    
+    .navbar-cnt {
+        width: 100%;
+        padding-right: 10px;
+    }
+    .navbar-cnt-top-1 {
+        display: flex;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+
+    .navbar-tab {
+        background-color: transparent !important;
+        border: none;
+        margin-bottom: 8px;
+        font-size: 22px;
+        margin-right: 5px;
+    }
+        .navbar-logo {
+            display: flex;
+
+            .logo-icon {
+                font-size: 30px;
+                color: #fff;
+                margin-right: 2px;
+                margin-bottom: 10px;
+            }
+            .strong-logo {
+                font-size: 22px;
+                font-weight: 700;
+                color: #fff;
+                .small-logo {
+                    font-weight: 400;
+                }
+            }
+        }
+     
+        
+        .navbar-cart-link {
+            margin-left: 15px;
+            position: relative;
+
+            .navbar-cart-icon {
+                font-size: 22px ;
+                color: #fff ;
+            }
+            .navbar-cart-icon:hover {
+                color: #ffe6de;
+            }
+            .navbar-cart-qty {
+                position: absolute;
+                top: -7px;
+                background: #fff;
+                border-radius: 100%;
+                padding: 0px 6px;
+                font-size: 13px;
+                right: -15px;
+                color: #fb4525;
+                font-weight: 700;
+            }
+            .navbar-cart-qty:hover {
+                background: #d4d4d4;
+                color: #ff6a4f;
+            }
+            
+        }
+    }
+        
+    }
+    .flex.align-center.navbar-items {
+            display: flex;
+            margin-top: 10px;
+        
+
+    .navbar-link {
+        color: #fff;
+        padding-right: 12px;
+    }
+    .navbar-link:hover {
+        color: #ffe6de;
+    }
+    }
+
+
+@media screen and (max-width:992px) {
+    .navbar-cnt-top-right {
+        display: none;
+    }
+    nav.navbar .navbar-cnt-top-1 .navbar-logo {
+        display: flex;
+        align-items: center;
+    }
+    nav.navbar .navbar-cnt-top-1 .navbar-logo .strong-logo {
+        font-size: 18px;
+        font-weight: 700;
+        color: #fff;
+    }
+}

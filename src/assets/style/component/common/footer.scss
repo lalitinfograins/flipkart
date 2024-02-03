@@ -1,0 +1,23 @@
+footer.footer_section {
+    background: #f94e30;
+
+    .footer-flex {
+        display: flex;
+        align-content: center;
+        flex-wrap: nowrap;
+        justify-content: center;
+        margin-bottom: 15px;
+
+        .footer-link {
+            color: #fff;
+            margin: 0 10px;
+            font-weight: 500;
+        }
+        .footer-link:hover {
+            color: #ffd3cb;
+        }
+        .vert-line {
+            color: #e5e5e5;
+        }
+    }
+}
