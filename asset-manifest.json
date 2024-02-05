@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/flipkart/static/css/main.7282f0bd.css",
+    "main.js": "/flipkart/static/js/main.7016f069.js",
+    "static/js/592.c4153a4e.chunk.js": "/flipkart/static/js/592.c4153a4e.chunk.js",
+    "static/media/hero2.png": "/flipkart/static/media/hero2.8cd6a96bea522bc9c032.png",
+    "static/media/hero1.png": "/flipkart/static/media/hero1.1844f20f32b11d9f8050.png",
+    "static/media/hero3.jpg": "/flipkart/static/media/hero3.b5b9377a1518d5b1b352.jpg",
+    "static/media/hero4.png": "/flipkart/static/media/hero4.c47e5e00a8b98f43da4e.png",
+    "static/media/logo_1.png": "/flipkart/static/media/logo_1.404cbcb00a21ce65e9a8.png",
+    "static/media/slick.svg": "/flipkart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/flipkart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/flipkart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/flipkart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/flipkart/index.html",
+    "main.7282f0bd.css.map": "/flipkart/static/css/main.7282f0bd.css.map",
+    "main.7016f069.js.map": "/flipkart/static/js/main.7016f069.js.map",
+    "592.c4153a4e.chunk.js.map": "/flipkart/static/js/592.c4153a4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7282f0bd.css",
+    "static/js/main.7016f069.js"
+  ]
+}
